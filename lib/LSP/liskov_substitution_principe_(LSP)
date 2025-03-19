@@ -1,0 +1,3 @@
+Nguyên lý thay thế Liskov:
+
+Các đối tượng (instance) kiểu class con có thể thay thế các đối tượng kiểu class cha mà không gây ra lỗi.
